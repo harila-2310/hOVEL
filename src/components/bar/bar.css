@@ -1,0 +1,90 @@
+.img1
+{
+    position: absolute;
+    margin-left: 5vh;
+    border:  2px solid black;
+    padding: 6vh 12vh;
+    padding-top: 0;
+}
+.img2
+{
+    position: absolute;
+    margin-left: 75vh;  
+    border:  2px solid black;
+    padding: 6vh 12vh;
+    padding-top: 0;
+    
+}
+.img3
+{
+    position: absolute ;
+    margin-left: 145vh; 
+    border:  2px solid black;
+    padding: 6vh 12vh;
+    padding-top: 0;
+}
+.img4
+{
+    position: absolute;
+    margin-left: 5vh;
+    border:  2px solid black;
+    padding: 6vh 12vh;
+    padding-top: 0;
+    margin-top: 50vh;
+}
+.img5
+{
+    position: absolute;
+    margin-left: 75vh;  
+    border:  2px solid black;
+    padding: 6vh 12vh;
+    padding-top: 0;
+    margin-top: 50vh;
+    
+}
+.img6
+{
+    position: absolute ;
+    margin-left: 145vh; 
+    border:  2px solid black;
+    padding: 6vh 12vh;
+    padding-top: 0;
+    margin-top: 50vh;
+}
+.img7
+{
+    position: absolute;
+    margin-left: 5vh;
+    border:  2px solid black;
+    padding: 6vh 12vh;
+    padding-top: 0;
+    margin-top: 100vh;
+}
+.img8
+{
+    position: absolute;
+    margin-left: 75vh;  
+    border:  2px solid black;
+    padding: 6vh 12vh;
+    padding-top: 0;
+    margin-top: 100vh;
+    
+}
+.img9
+{
+    position: absolute ;
+    margin-left: 145vh; 
+    border:  2px solid black;
+    padding: 6vh 12vh;
+    padding-top: 0;
+    margin-top: 100vh;
+}
+.read-more
+{
+    position: absolute;
+    margin-left: 12vw;
+    margin-top: 2vh;
+}
+.read-more:hover{
+    color: blue;
+}
